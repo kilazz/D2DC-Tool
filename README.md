@@ -1,8 +1,5 @@
-# D2DC-Tool
-Utility for Divinity 2: Developer's Cut
-=======
 # D2DCTool
-A cross-platform utility for **Divinity 2: Developer's Cut** modding.
+A cross-platform utility for **Divinity 2 Developer's Cut** modding.
 
 ## Features
 *   **Archive Tools (.dv2):** Extract and pack game archives with Zlib compression support.
@@ -21,4 +18,3 @@ A cross-platform utility for **Divinity 2: Developer's Cut** modding.
 ## Build
 ```bash
 dotnet run --project D2DCTool/D2DCTool.csproj
-
